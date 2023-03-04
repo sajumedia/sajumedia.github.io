@@ -1,0 +1,10 @@
+body {
+	color: navy;
+	background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+/*	 background-image: linear-gradient(to right, #6bc4d1, #65c0d8, #64bcdf, #69b7e4, #73b1e7, #70b6ed, #6dbaf2, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);*/
+/*	 text-align: center;*/
+}
+
+.fab{
+	font-size: 1.5em;
+}
